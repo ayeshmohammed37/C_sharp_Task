@@ -1,0 +1,5 @@
+Command to create the project
+- open the terminal and write the following commands
+	* dotnet new console -n hello		// create new console application named hello
+	* cd hello
+	* dotnet run						// run the hello project and print hello world 

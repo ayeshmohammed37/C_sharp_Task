@@ -1,0 +1,14 @@
+C:\Users\ayesh\MyWork\DEPI\Net_Web_Defeloper_Track\C#\day01\day01\Task\hello\bin\Debug\net9.0\hello.exe
+C:\Users\ayesh\MyWork\DEPI\Net_Web_Defeloper_Track\C#\day01\day01\Task\hello\bin\Debug\net9.0\hello.deps.json
+C:\Users\ayesh\MyWork\DEPI\Net_Web_Defeloper_Track\C#\day01\day01\Task\hello\bin\Debug\net9.0\hello.runtimeconfig.json
+C:\Users\ayesh\MyWork\DEPI\Net_Web_Defeloper_Track\C#\day01\day01\Task\hello\bin\Debug\net9.0\hello.dll
+C:\Users\ayesh\MyWork\DEPI\Net_Web_Defeloper_Track\C#\day01\day01\Task\hello\bin\Debug\net9.0\hello.pdb
+C:\Users\ayesh\MyWork\DEPI\Net_Web_Defeloper_Track\C#\day01\day01\Task\hello\obj\Debug\net9.0\hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayesh\MyWork\DEPI\Net_Web_Defeloper_Track\C#\day01\day01\Task\hello\obj\Debug\net9.0\hello.AssemblyInfoInputs.cache
+C:\Users\ayesh\MyWork\DEPI\Net_Web_Defeloper_Track\C#\day01\day01\Task\hello\obj\Debug\net9.0\hello.AssemblyInfo.cs
+C:\Users\ayesh\MyWork\DEPI\Net_Web_Defeloper_Track\C#\day01\day01\Task\hello\obj\Debug\net9.0\hello.csproj.CoreCompileInputs.cache
+C:\Users\ayesh\MyWork\DEPI\Net_Web_Defeloper_Track\C#\day01\day01\Task\hello\obj\Debug\net9.0\hello.dll
+C:\Users\ayesh\MyWork\DEPI\Net_Web_Defeloper_Track\C#\day01\day01\Task\hello\obj\Debug\net9.0\refint\hello.dll
+C:\Users\ayesh\MyWork\DEPI\Net_Web_Defeloper_Track\C#\day01\day01\Task\hello\obj\Debug\net9.0\hello.pdb
+C:\Users\ayesh\MyWork\DEPI\Net_Web_Defeloper_Track\C#\day01\day01\Task\hello\obj\Debug\net9.0\hello.genruntimeconfig.cache
+C:\Users\ayesh\MyWork\DEPI\Net_Web_Defeloper_Track\C#\day01\day01\Task\hello\obj\Debug\net9.0\ref\hello.dll
